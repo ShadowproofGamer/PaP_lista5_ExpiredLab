@@ -1,0 +1,15 @@
+Zad. 1. [3+1p] Napisać w Scala funkcję korzystającą z rekurencji ogonowej,
+która na podstawie listy funkcji jednoargumentowych dokona ich złożenia.
+Napisać następnie analogiczną funkcję z wykorzystaniem funkcjonału foldLeft.
+
+Zad. 2. [3p] Zakładając, że lista modeluje zbiór  liczb całkowitych napisać
+w OCaml wykorzystująca rekurencję ogonową funkcję typu
+int list -> int list -> int list znajdującą iloczyn dwóch zbiorów liczb całkowitych.
+W zadaniu wykorzystać funkcję sort z modułu List.
+
+Zad. 3. [2+1p] Napisać w Scala funkcje wykorzystującą rekurencję ogonową,
+która wstawia do uporządkowanej niemalejąco listy liczb całkowitych
+kolejny element zgodnie z porządkiem niemalejącym.
+Wykorzystując zdefiniowaną funkcję napisać kolejną funkcję,
+która porządkuje zadaną listę niemalejąco. Na koniec połączyć obie funkcje w jedną.
+
